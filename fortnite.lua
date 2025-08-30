@@ -7,8 +7,8 @@ return {
     TargetSwitchDelay = 0.1,
     TargetTimeout = 10,
     TargetHeightOffset = 6.5,
-    LowHeightOffset = -0.5,
-    HeightSwitchDuration = 0.6,
+    LowHeightOffset = 0,
+    HeightSwitchDuration = 0.75,
     
     -- Combat Settings
     HealthThresholdForAbility = 65,
