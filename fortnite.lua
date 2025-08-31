@@ -5,7 +5,7 @@ return {
     
     -- Targeting Settings
     TargetSwitchDelay = 0.1,
-    TargetTimeout = 10,
+    TargetTimeout = 1.5,
     TargetHeightOffset = 6.5,
     LowHeightOffset = 0,
     HeightSwitchDuration = 0.75,
