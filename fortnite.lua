@@ -13,7 +13,7 @@ return {
     -- Combat Settings
     HealthThresholdForAbility = 65,
     SpamByteNetReliable = true,
-    ByteNetSpamInterval = 0.1,
+    ByteNetSpamInterval = 0.05,
     
     -- Item Collection Settings
     CollectItems = false,
