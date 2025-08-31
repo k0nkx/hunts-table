@@ -4,10 +4,10 @@ return {
     AutoReconnect = true,
     
     -- Targeting Settings
-    TargetSwitchDelay = 0.1,
+    TargetSwitchDelay = 5,
     TargetTimeout = 1.5,
     TargetHeightOffset = 6.5,
-    LowHeightOffset = -4.5,
+    LowHeightOffset = 6.5,
     HeightSwitchDuration = 0.65,
     
     -- Combat Settings
